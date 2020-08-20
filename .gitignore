@@ -2,3 +2,5 @@
 *.yaml
 build/
 out/
+.gradle
+.idea
